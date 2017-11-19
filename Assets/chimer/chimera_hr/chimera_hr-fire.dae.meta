@@ -1,0 +1,926 @@
+fileFormatVersion: 2
+guid: e8ab6875e268d664e9a8edbfbcf0f5ac
+timeCreated: 1488209977
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: chimera_hr-fire-armature
+    100004: chimera_hr-fire-model
+    100006: joint0
+    100008: joint1
+    100010: joint10
+    100012: joint11
+    100014: joint12
+    100016: joint13
+    100018: joint14
+    100020: joint15
+    100022: joint16
+    100024: joint17
+    100026: joint18
+    100028: joint19
+    100030: joint2
+    100032: joint20
+    100034: joint21
+    100036: joint22
+    100038: joint23
+    100040: joint24
+    100042: joint25
+    100044: joint26
+    100046: joint27
+    100048: joint28
+    100050: joint29
+    100052: joint3
+    100054: joint30
+    100056: joint31
+    100058: joint32
+    100060: joint33
+    100062: joint34
+    100064: joint35
+    100066: joint36
+    100068: joint37
+    100070: joint38
+    100072: joint39
+    100074: joint4
+    100076: joint40
+    100078: joint41
+    100080: joint42
+    100082: joint43
+    100084: joint44
+    100086: joint45
+    100088: joint46
+    100090: joint47
+    100092: joint48
+    100094: joint49
+    100096: joint5
+    100098: joint50
+    100100: joint51
+    100102: joint52
+    100104: joint53
+    100106: joint54
+    100108: joint55
+    100110: joint56
+    100112: joint57
+    100114: joint58
+    100116: joint59
+    100118: joint6
+    100120: joint60
+    100122: joint61
+    100124: joint62
+    100126: joint63
+    100128: joint64
+    100130: joint65
+    100132: joint66
+    100134: joint67
+    100136: joint68
+    100138: joint69
+    100140: joint7
+    100142: joint70
+    100144: joint71
+    100146: joint72
+    100148: joint8
+    100150: joint9
+    400000: //RootNode
+    400002: chimera_hr-fire-armature
+    400004: chimera_hr-fire-model
+    400006: joint0
+    400008: joint1
+    400010: joint10
+    400012: joint11
+    400014: joint12
+    400016: joint13
+    400018: joint14
+    400020: joint15
+    400022: joint16
+    400024: joint17
+    400026: joint18
+    400028: joint19
+    400030: joint2
+    400032: joint20
+    400034: joint21
+    400036: joint22
+    400038: joint23
+    400040: joint24
+    400042: joint25
+    400044: joint26
+    400046: joint27
+    400048: joint28
+    400050: joint29
+    400052: joint3
+    400054: joint30
+    400056: joint31
+    400058: joint32
+    400060: joint33
+    400062: joint34
+    400064: joint35
+    400066: joint36
+    400068: joint37
+    400070: joint38
+    400072: joint39
+    400074: joint4
+    400076: joint40
+    400078: joint41
+    400080: joint42
+    400082: joint43
+    400084: joint44
+    400086: joint45
+    400088: joint46
+    400090: joint47
+    400092: joint48
+    400094: joint49
+    400096: joint5
+    400098: joint50
+    400100: joint51
+    400102: joint52
+    400104: joint53
+    400106: joint54
+    400108: joint55
+    400110: joint56
+    400112: joint57
+    400114: joint58
+    400116: joint59
+    400118: joint6
+    400120: joint60
+    400122: joint61
+    400124: joint62
+    400126: joint63
+    400128: joint64
+    400130: joint65
+    400132: joint66
+    400134: joint67
+    400136: joint68
+    400138: joint69
+    400140: joint7
+    400142: joint70
+    400144: joint71
+    400146: joint72
+    400148: joint8
+    400150: joint9
+    4300000: chimera_hr-fire-model
+    9500000: //RootNode
+    13700000: chimera_hr-fire-model
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human:
+    - boneName: joint0
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint58
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint62
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint59
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint63
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint60
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint64
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint3
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint4
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint44
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint45
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint13
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint28
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint14
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint29
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint15
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint30
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint16
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint31
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint61
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint65
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint49
+      humanName: LeftEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint48
+      humanName: RightEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint46
+      humanName: Jaw
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint17
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint18
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint19
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint20
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint21
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint22
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint23
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint24
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint32
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint33
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint34
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint35
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint36
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint37
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint38
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint39
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: chimera_hr-fire(Clone)
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: chimera_hr-fire-armature
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: joint0
+      position: {x: 0, y: 10.86323, z: -1.5078125}
+      rotation: {x: 0.04444915, y: 0.7057084, z: 0.04444915, w: 0.7057084}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: joint1
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: -0.39263833, y: 0.588103, z: -0.5880725, w: 0.3926078}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: joint2
+      position: {x: -0.4468994, y: 0, z: -0.18359375}
+      rotation: {x: 0, y: -0.3703065, z: -0, w: 0.92890966}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: joint3
+      position: {x: -2.314331, y: 0, z: 0.0024414062}
+      rotation: {x: 0.00000011920926, y: 0.0022422145, z: -0.0000008642671, w: 0.9999975}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: joint4
+      position: {x: -3.2285156, y: 0, z: 0.0029296875}
+      rotation: {x: 0.010875527, y: -0.24591897, z: 0.012401457, w: 0.96915}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: joint5
+      position: {x: -4.218506, y: 0, z: -0.21838379}
+      rotation: {x: 0, y: -0.10611287, z: -0, w: 0.9943541}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: joint6
+      position: {x: -2.9378662, y: 0, z: 0}
+      rotation: {x: 0, y: -0.13837008, z: -0, w: 0.99038064}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: joint7
+      position: {x: -2.3771973, y: 0, z: -2.088501}
+      rotation: {x: 0, y: -0.65756863, z: -0, w: 0.75339466}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: joint8
+      position: {x: -1.5786133, y: 0, z: 0.0028076172}
+      rotation: {x: 0, y: 0.046967756, z: -0, w: 0.9988964}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: joint9
+      position: {x: -0.80163574, y: 0.00012207031, z: 1.3699951}
+      rotation: {x: -0.001312284, y: 0.94426435, z: 0.021728974, w: 0.32846764}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: joint10
+      position: {x: -2.4476318, y: -0.122924805, z: 5.151123}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: joint11
+      position: {x: -1.873291, y: 1.1160889, z: 0.25402832}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: joint12
+      position: {x: -1.873291, y: -1.0748291, z: 0.25402832}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: joint13
+      position: {x: 2.4267578, y: 2.6339111, z: 0.17236328}
+      rotation: {x: -0.64634717, y: 0.75526696, z: 0.08581747, w: -0.06665198}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: joint14
+      position: {x: -2.9675293, y: 0, z: 0}
+      rotation: {x: -0.2636912, y: 0.06373419, z: -0.040618073, w: 0.9616419}
+      scale: {x: 0.99999994, y: 1, z: 1}
+      transformModified: 1
+    - name: joint15
+      position: {x: -3.9569092, y: 0, z: 0}
+      rotation: {x: -0.003599721, y: 0.022356546, z: -0.0142281605, w: 0.9996423}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: joint16
+      position: {x: -5.0828857, y: 0, z: 0}
+      rotation: {x: -0.7959479, y: -0.11221705, z: -0.060690716, w: 0.5917693}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: joint17
+      position: {x: -1.7269287, y: -2.204712, z: -1.5751953}
+      rotation: {x: 0.6096502, y: 0.030576535, z: 0.2165899, w: 0.7618928}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: joint18
+      position: {x: -1.4403076, y: 0, z: 0}
+      rotation: {x: 0, y: -0.17410566, z: -0, w: 0.98472697}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: joint19
+      position: {x: -3.2060547, y: -1.6119385, z: -0.32543945}
+      rotation: {x: 0.08507042, y: -0.08576362, z: 0.1872602, w: 0.97485447}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: joint20
+      position: {x: -3.0205078, y: 0, z: 0}
+      rotation: {x: 0, y: -0.32813236, z: -0, w: 0.94463176}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: joint21
+      position: {x: -3.227295, y: 0.3421631, z: 0.07299805}
+      rotation: {x: -0.07487389, y: -0.123470634, z: 0.19001015, w: 0.97110504}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: joint22
+      position: {x: -2.720581, y: 0, z: 0}
+      rotation: {x: 0, y: -0.38717958, z: -0, w: 0.92200434}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: joint23
+      position: {x: -3.1466064, y: 2.2613525, z: -0.10546875}
+      rotation: {x: -0.27175376, y: -0.16746315, z: 0.18076223, w: 0.93028545}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: joint24
+      position: {x: -2.4987793, y: 0, z: 0}
+      rotation: {x: 0, y: -0.41786176, z: -0, w: 0.9085106}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: joint25
+      position: {x: -3.643921, y: -0.54797363, z: -0.1274414}
+      rotation: {x: 0.0004272591, y: -2.6162086e-20, z: 0.99999994, w: -6.1232316e-17}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: joint26
+      position: {x: -6.478882, y: 4.536865, z: -0.12512207}
+      rotation: {x: 0.00039673972, y: -0.0001525922, z: 0.9404563, w: -0.3399144}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: joint27
+      position: {x: -1.5444336, y: 1.2175293, z: -0.23425293}
+      rotation: {x: 0.831457, y: -0.04299957, z: -0.28244212, w: -0.47650468}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: joint28
+      position: {x: 2.4267578, y: -2.6339111, z: 0.17236328}
+      rotation: {x: 0.6463633, y: 0.7552501, z: -0.085846074, w: -0.066650495}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: joint29
+      position: {x: -2.9675293, y: 0, z: 0}
+      rotation: {x: 0.2669203, y: 0.041662056, z: 0.06705882, w: 0.96047956}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: joint30
+      position: {x: -3.9569092, y: 0, z: 0}
+      rotation: {x: 0.0032749164, y: 0.02320251, z: 0.012944051, w: 0.99964166}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: joint31
+      position: {x: -5.0828857, y: 0, z: 0}
+      rotation: {x: 0.795931, y: -0.11218151, z: 0.06056205, w: 0.59181195}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: joint32
+      position: {x: -1.7269287, y: 2.204712, z: -1.5751953}
+      rotation: {x: -0.60967207, y: 0.030580614, z: -0.21657676, w: 0.76187885}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: joint33
+      position: {x: -1.4403076, y: 0, z: 0}
+      rotation: {x: 0, y: -0.17410566, z: -0, w: 0.98472697}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: joint34
+      position: {x: -3.2060547, y: 1.6119385, z: -0.32543945}
+      rotation: {x: -0.08509818, y: -0.08575204, z: -0.18725766, w: 0.9748535}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: joint35
+      position: {x: -3.0205078, y: 0, z: 0}
+      rotation: {x: 0, y: -0.32813236, z: -0, w: 0.94463176}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: joint36
+      position: {x: -3.227295, y: -0.3421631, z: 0.07299805}
+      rotation: {x: 0.074845314, y: -0.1234616, z: -0.19000913, w: 0.9711087}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: joint37
+      position: {x: -2.720581, y: 0, z: 0}
+      rotation: {x: 0, y: -0.38717958, z: -0, w: 0.92200434}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: joint38
+      position: {x: -3.1466064, y: -2.2613525, z: -0.10546875}
+      rotation: {x: 0.27172768, y: -0.16745512, z: -0.18076268, w: 0.9302944}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: joint39
+      position: {x: -2.4987793, y: 0, z: 0}
+      rotation: {x: 0, y: -0.41786176, z: -0, w: 0.9085106}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: joint40
+      position: {x: -3.3496094, y: 0.40197754, z: -1.8374023}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: joint41
+      position: {x: -3.643921, y: 0.54797363, z: -0.1274414}
+      rotation: {x: 0.0004272591, y: -2.6162086e-20, z: 0.99999994, w: -6.1232316e-17}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: joint42
+      position: {x: -6.727539, y: -4.4665527, z: -0.125}
+      rotation: {x: 0.00039673675, y: 0.00009155463, z: 0.9538162, w: 0.30039072}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: joint43
+      position: {x: -1.7441406, y: -1.0550537, z: 0.03857422}
+      rotation: {x: 0.20755433, y: 0.2297716, z: -0.14688414, w: 0.939442}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: joint44
+      position: {x: -0.8937988, y: 1.6011963, z: 3.7889404}
+      rotation: {x: 0.09915444, y: 0.6115471, z: -0.21112767, w: 0.7560447}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: joint45
+      position: {x: -7.527954, y: 0.0043945312, z: -0.0009765625}
+      rotation: {x: -0.1729179, y: -0.74263746, z: -0.32667017, w: 0.55845827}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: joint46
+      position: {x: -8.283325, y: -0.0063476562, z: 0.005004883}
+      rotation: {x: 0.20621131, y: 0.40033743, z: -0.5750845, w: 0.6829968}
+      scale: {x: 1, y: 1, z: 0.99999994}
+      transformModified: 1
+    - name: joint47
+      position: {x: -10.786621, y: -0.0009765625, z: 0.0087890625}
+      rotation: {x: 0.057343863, y: -0.11575586, z: -0.020111552, w: 0.99141705}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: joint48
+      position: {x: -8.004028, y: -0.016845703, z: -0.03967285}
+      rotation: {x: -0.3934462, y: 0.18631625, z: 0.90026915, w: -0.0013428219}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: joint49
+      position: {x: -8.539307, y: -0.0075683594, z: 0.20996094}
+      rotation: {x: -0.5933454, y: 0.30851397, z: 0.7429178, w: 0.028870715}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: joint50
+      position: {x: -0.8937988, y: -1.6011963, z: 3.7889404}
+      rotation: {x: 0.052551918, y: 0.83240795, z: 0.41214508, w: 0.36670384}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: joint51
+      position: {x: -7.527954, y: -0.0043945312, z: -0.0009765625}
+      rotation: {x: 0.17288655, y: -0.742634, z: 0.3266991, w: 0.55845565}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: joint52
+      position: {x: -8.283325, y: 0.0063476562, z: 0.005004883}
+      rotation: {x: -0.20623693, y: 0.40032792, z: 0.5751013, w: 0.6829805}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: joint53
+      position: {x: -10.786621, y: 0.0009765625, z: 0.0087890625}
+      rotation: {x: -0.057374246, y: -0.11575559, z: 0.020142023, w: 0.9914147}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: joint54
+      position: {x: -8.004028, y: 0.016845703, z: -0.03967285}
+      rotation: {x: -0.39344397, y: -0.1863457, z: 0.90026397, w: 0.0013733344}
+      scale: {x: 1, y: 0.99999994, z: 1}
+      transformModified: 1
+    - name: joint55
+      position: {x: -8.539307, y: 0.0075683594, z: 0.20996094}
+      rotation: {x: -0.59334034, y: -0.30854183, z: 0.74291146, w: -0.028839951}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: joint56
+      position: {x: -2.270996, y: 0, z: 1.7059326}
+      rotation: {x: 0, y: -0.24267924, z: -0, w: 0.9701066}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: joint57
+      position: {x: -2.4089355, y: 0, z: -5.5081787}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: joint58
+      position: {x: 0.4506836, y: 1.8702393, z: -0.17419434}
+      rotation: {x: 0.34170976, y: -0.0850076, z: 0.93464035, w: -0.049555436}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: joint59
+      position: {x: -4.79187, y: 0, z: 0}
+      rotation: {x: -0.022179127, y: 0.3118676, z: -0.016791787, w: 0.9497183}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: joint60
+      position: {x: -4.404419, y: 0, z: 0}
+      rotation: {x: 0.067787215, y: -0.5566306, z: 0.08104949, w: 0.8240136}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: joint61
+      position: {x: -2.6951904, y: 0, z: 0}
+      rotation: {x: -0.036652222, y: 0.36646128, z: -0.106691256, w: 0.923569}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: joint62
+      position: {x: 0.4506836, y: -1.8702393, z: -0.17419434}
+      rotation: {x: 0.34170774, y: 0.08497252, z: 0.93464327, w: 0.04957311}
+      scale: {x: 1, y: 0.99999994, z: 1}
+      transformModified: 1
+    - name: joint63
+      position: {x: -4.79187, y: 0, z: 0}
+      rotation: {x: 0.0221913, y: 0.3118656, z: 0.0168007, w: 0.94971853}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: joint64
+      position: {x: -4.404419, y: 0, z: 0}
+      rotation: {x: -0.06779225, y: -0.556646, z: -0.08107706, w: 0.82400006}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: joint65
+      position: {x: -2.6951904, y: 0, z: 0}
+      rotation: {x: 0.036621638, y: 0.36646044, z: 0.10672154, w: 0.92356706}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: joint66
+      position: {x: 2.0496826, y: 0, z: 0.94677734}
+      rotation: {x: 0.053131126, y: 0.99850506, z: -0.00073242217, w: -0.012817388}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: joint67
+      position: {x: -2.6953125, y: 0, z: 0.002319336}
+      rotation: {x: 0.0026855483, y: -0.1470643, z: -0.018341076, w: 0.98895323}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: joint68
+      position: {x: -3.081787, y: 0, z: 0.0020751953}
+      rotation: {x: 0.028137797, y: -0.30765414, z: -0.08691588, w: 0.94710237}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: joint69
+      position: {x: -3.3859863, y: 0, z: 0.0015869141}
+      rotation: {x: 0.022614198, y: -0.26459527, z: -0.082369395, w: 0.96056926}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: joint70
+      position: {x: -2.4174805, y: 0, z: 0.0017089844}
+      rotation: {x: -0.0029907546, y: 0.08288662, z: -0.035522837, w: 0.9959212}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: joint71
+      position: {x: -3.1029053, y: -2.6741943, z: 0}
+      rotation: {x: -0.5101939, y: -0.48959458, z: 0.4896251, w: 0.51016337}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: joint72
+      position: {x: -2.3094482, y: 0, z: 0.002319336}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: chimera_hr-fire-model
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
